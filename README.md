@@ -110,7 +110,7 @@ Như trong ví dụ trên thì button mới được thêm vào toolbar này s�
 Thêm popup vào file `manifest.json` 
 
 `chrome-extension/manifest.json`
-```json
+```js
 {
   ...
   "browser_action": {
